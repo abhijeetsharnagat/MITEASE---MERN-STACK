@@ -7,7 +7,7 @@ const cors = require("cors");
 const path = require("path");
 
 app.use(cors({
-  origin: 'https://mitease-frontend.vercel.app',
+  origin: 'https://mernstack-7l62xh44k-abhijeet-sharnagats-projects.vercel.app', 
   credentials: true
 }));
 
