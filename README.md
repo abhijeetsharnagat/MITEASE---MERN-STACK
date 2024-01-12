@@ -13,7 +13,7 @@ MITEase is a user-friendly college service platform designed and implemented to 
 
 - **Streamlined Categorization:** MITEase simplifies the process of finding and accessing different services by introducing a streamlined categorization system.
 
-- **Provider Registration:** Empowering service providers, the platform offers a simplified registration process, making it easy for them to showcase their services.
+- **Provider Registration:** Empowering service providers, the platform offers a simplified registration process, making it easy for them to showcase their services
 
 ## Technologies Used
 
